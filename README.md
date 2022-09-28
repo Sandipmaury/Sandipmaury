@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandipmaury" alt="sandipmaury" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://sandipmaury.github.io/Sandipmaurya-portfolio/](https://sandipmaury.github.io/Sandipmaurya-portfolio/)
 
