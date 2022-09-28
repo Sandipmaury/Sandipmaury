@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://sandipmaury.github.io/Sandipmaurya-portfolio/](https://sandipmaury.github.io/Sandipmaurya-portfolio/)
+- 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/Click_HERE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sandipmaury.github.io/Sandipmaurya-portfolio/)
 
-- 📫 How to reach me **sandipmaurya7619@gmail.com**
+- 📫 How to reach me [![portfolio](https://img.shields.io/badge/Click_HERE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](**sandipmaurya7619@gmail.com**)**sandipmaurya7619@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15c-2Mh206I72A7kAmu9qUQIwd-Pln1FQ/view?usp=sharing](https://drive.google.com/file/d/15c-2Mh206I72A7kAmu9qUQIwd-Pln1FQ/view?usp=sharing)
+- 📄 Know about my experiences [![portfolio](https://img.shields.io/badge/Click_HERE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/15c-2Mh206I72A7kAmu9qUQIwd-Pln1FQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
