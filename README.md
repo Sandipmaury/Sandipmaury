@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandip Maurya</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">Aspiring MERN Stack Developer with 1000+ hours of coding experience. Capable
+of working with front-end and back-end technologies in collaborative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipmaury&label=Profile%20views&color=0e75b6&style=flat" alt="sandipmaury" /> </p>
 
