@@ -8,7 +8,7 @@ of working with front-end and back-end technologies in collaborative projects.</
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [![portfolio](https://img.shields.io/badge/Click_HERE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sandipmaury.github.io/Sandipmaurya-portfolio/)
+- 👨‍💻 To see my portfolio [![portfolio](https://img.shields.io/badge/Click_HERE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sandipmaury.github.io/)
 
 - 📫 How to reach me **sandipmaurya7619@gmail.com**
 
