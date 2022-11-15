@@ -12,7 +12,7 @@ of working with front-end and back-end technologies in collaborative projects.</
 
 - 📫 How to reach me **sandipmaurya7619@gmail.com**
 
-- 📄 Know about my experiences [![portfolio](https://img.shields.io/badge/Click_HERE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/15c-2Mh206I72A7kAmu9qUQIwd-Pln1FQ/view?usp=sharing)
+- 📄 Download resume [![resume](https://img.shields.io/badge/Click_HERE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/15c-2Mh206I72A7kAmu9qUQIwd-Pln1FQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
